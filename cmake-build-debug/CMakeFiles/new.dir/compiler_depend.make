@@ -132,7 +132,8 @@ CMakeFiles/new.dir/Matrix.cpp.obj: ../Matrix.cpp \
   C:/Users/solop/msys64/mingw64/include/c++/11.3.0/bits/basic_ios.tcc \
   C:/Users/solop/msys64/mingw64/include/c++/11.3.0/bits/ostream.tcc \
   C:/Users/solop/msys64/mingw64/include/c++/11.3.0/istream \
-  C:/Users/solop/msys64/mingw64/include/c++/11.3.0/bits/istream.tcc
+  C:/Users/solop/msys64/mingw64/include/c++/11.3.0/bits/istream.tcc \
+  C:/Users/solop/msys64/mingw64/include/c++/11.3.0/ctime
 
 CMakeFiles/new.dir/main.cpp.obj: ../main.cpp \
   ../Matrix.h \
@@ -265,7 +266,8 @@ CMakeFiles/new.dir/main.cpp.obj: ../main.cpp \
   C:/Users/solop/msys64/mingw64/include/c++/11.3.0/bits/basic_ios.tcc \
   C:/Users/solop/msys64/mingw64/include/c++/11.3.0/bits/ostream.tcc \
   C:/Users/solop/msys64/mingw64/include/c++/11.3.0/istream \
-  C:/Users/solop/msys64/mingw64/include/c++/11.3.0/bits/istream.tcc
+  C:/Users/solop/msys64/mingw64/include/c++/11.3.0/bits/istream.tcc \
+  C:/Users/solop/msys64/mingw64/include/c++/11.3.0/ctime
 
 
 ../main.cpp:
@@ -319,6 +321,8 @@ C:/Users/solop/msys64/mingw64/include/c++/11.3.0/bits/stringfwd.h:
 C:/Users/solop/msys64/mingw64/include/c++/11.3.0/x86_64-w64-mingw32/bits/c++config.h:
 
 C:/Users/solop/msys64/mingw64/include/c++/11.3.0/bits/nested_exception.h:
+
+C:/Users/solop/msys64/mingw64/include/c++/11.3.0/ctime:
 
 C:/Users/solop/msys64/mingw64/include/c++/11.3.0/ext/atomicity.h:
 
